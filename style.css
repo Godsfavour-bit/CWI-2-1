@@ -1,0 +1,72 @@
+// This affects the whole webpage //
+
+* {
+		background-color: #ffffff;	
+		font-family: Helvetica, sans-serif;
+		padding: 0;
+		margin: 0;
+				}
+
+h1 {
+				color: #090b13;
+				text-align: center;
+				padding: 20px 10px 0 10px;
+				font-variant: small-caps;
+				
+				}
+				
+h3 {
+				color: #090b13;
+				padding: 10px 10px 0 10px;
+				font-variant: small-caps;
+				
+				}
+
+p {
+			padding-left: 10px;	
+			padding-right: 10px;
+				}
+
+.quote {
+				font-weight: bold;
+				}
+				
+img {
+				width: 300px;
+				display: block;
+				margin-right: auto;
+				margin-left: auto;
+				}
+
+.second {
+				font-weight: bold;
+				}
+				
+.bottom {
+				padding-bottom: 20px;
+				}
+				
+footer {
+				background-color: #000000;
+				}
+				
+footer div h3{
+				color: #ffffff;
+				}				
+				
+footer div a {
+				text-decoration: none;
+				color: #ffffff;
+				}
+
+a:link, a:visited {
+				color: #00afff;
+				}
+				
+a:hover, a:active {
+				color: #ff8900;
+				}				
+
+footer div {
+				padding-bottom: 20px;
+				}
